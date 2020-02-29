@@ -1,0 +1,3 @@
+\babel@toc {english}{}
+\contentsline {section}{List of Figures}{2}%
+\contentsline {section}{\numberline {1}\large INTRODUCTION}{3}%
